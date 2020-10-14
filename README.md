@@ -4,6 +4,9 @@ This sample chat bot displays theaters list in vijayawada and allows users to bo
 # Vijayawada_Movie_Booking_Bot
 This sample chat bot displays theaters list in vijayawada and allows users to book the tickets online..
 
+# NodeRED Web URL
+[Node Red Web URL](https://node-red-jqtbq-2020-10-07.eu-gb.mybluemix.net/ui/)
+
 # Simple-Movie-Booking-Chat-Bot-using-Slots
 This is repository is aimed at helping anyone get started with understanding how to use Watson Assistant service to create a simple chat bot that will book seats to a movie for you. This will be done using a feature called Slots.
 
